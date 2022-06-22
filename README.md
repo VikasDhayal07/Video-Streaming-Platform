@@ -7,7 +7,7 @@ This is a video streaming application like YouTube, where users can upload their
 2. MongoDB
 
 ### **Installation and Running**
-1. Clone the repository `git clone https://github.com/i-rebel-aj/Video-Streaming-App.git`
+1. Clone the repository `git clone https://github.com/VikasDhayal07/Video-Streaming-App.git`
 2. Make sure mongoDB instance is running `sudo service mongod start`
 3. Install the relevant node.js dependencies `npm intall`
 4. Start the server `npm start`
